@@ -1,0 +1,22 @@
+.student-name {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #efeee7;
+    font-display: #333333;
+}
+.image {
+    float: left;
+    width: 390px;
+    height: 400px;
+}
+.button {
+    background-color: rgb(199, 199, 199); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}

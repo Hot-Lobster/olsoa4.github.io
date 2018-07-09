@@ -6,8 +6,7 @@
 }
 .image {
     float: left;
-    width: 390px;
-    height: 400px;
+    padding: 15px;
 }
 .button {
     background-color: rgb(199, 199, 199); /* Green */
